@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Everlast Chigoba
-- 👀 I’m interested in learning to improve my knowledge
-- 🌱 I’m currently learning calculus
+- 👀 I’m interested in learning to improve my coding skills
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on math problems and computer programming 
 - 📫 How to reach me anything if interest
 
